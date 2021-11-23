@@ -32,13 +32,13 @@ In collaboration with-
 <div align="center">
   <h1 align="center"> ⚡ PARTICIPATION GUIDELINES</h1>
 
-Rules and regulations help hackers understand what is expected of them & make sure to follow the [instructions](https://github.com/ghulamyazdani/bugfest/blob/main/participation-guidelines.md) without violating them.
+Rules and regulations help hackers understand what is expected of them & make sure to follow the [instructions](https://github.com/ghulamyazdani/BugFest/blob/master/participation-guidelines.md) without violating them.
 </div>
 
 <div align="center">
   <h2 align="center"> 📰 CODE OF CONDUCT </h2>
 
-Every participant is requested to abide by the [Code of Conduct](https://github.com/ghulamyazdani/bugfest/blob/main/CODE_OF_CONDUCT.md). Failure to do so will result in immediate disqualification.
+Every participant is requested to abide by the [Code of Conduct](https://github.com/ghulamyazdani/BugFest/blob/master/CODE_OF_CONDUCT.md). Failure to do so will result in immediate disqualification.
 </div> 
 
 <div align="center">
