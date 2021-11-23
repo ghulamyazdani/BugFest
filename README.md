@@ -5,7 +5,7 @@
   <h4 align="center">  Show those pesky bugs who is the boss by detecting and removing bugs in a code!✨ </h4>
 </div>
 <p align="center">
-    <img width="100%" alt="Event banner" src="assets/bugtrons-banner.png">
+    <img width="100%" alt="Event banner" src="assets/banner.png">
 </p>
 <div align="center">
   <h2 align="center"> 🤔 ABOUT </h2>
@@ -19,30 +19,26 @@ In collaboration with-
 
 
 
-> **"Competition makes us faster. Collaboration makes us better"**
+> **"If debugging is the process of removing bugs, then programming must be the process of putting them in."**
 
-<div align="center">
-We believe in open source for everyone, and coding ability enhances the folks development among communities.
-</div>
 
 <div align="center">
   <h2 align="center"> 🏗 STRUCTURE:-</h2>
- 
-
-Three-Tier, Multi-Division contest, and Coding Rounds <br />
-See individual show addendums for tier-two multi-division contest, after competed & cleared the round for tier-one.</br>
+ Only one hour is alotted for this whole event so make sure you find the bugs in time .
+ Submission can be done by uploading your debugged code at any platform eg. GitHub, GitLab, BitBucket,Drive etc. and submitting the link to the event organizers through google forms.
+</br>
 </br></div>
 
 <div align="center">
   <h1 align="center"> ⚡ PARTICIPATION GUIDELINES</h1>
 
-Rules and regulations help hackers understand what is expected of them & make sure to follow the [instructions](https://github.com/devstrons/bugtrons/blob/main/participation-guidelines.md) without violating them.
+Rules and regulations help hackers understand what is expected of them & make sure to follow the [instructions](https://github.com/ghulamyazdani/bugfest/blob/main/participation-guidelines.md) without violating them.
 </div>
 
 <div align="center">
   <h2 align="center"> 📰 CODE OF CONDUCT </h2>
 
-Every participant is requested to abide by the [Code of Conduct](https://github.com/devstrons/bugtrons/blob/main/CODE_OF_CONDUCT.md). Failure to do so will result in immediate disqualification.
+Every participant is requested to abide by the [Code of Conduct](https://github.com/ghulamyazdani/bugfest/blob/main/CODE_OF_CONDUCT.md). Failure to do so will result in immediate disqualification.
 </div> 
 
 <div align="center">
@@ -61,7 +57,7 @@ All divisions will be judge simultaneously. Top 3 Hackers will be awarded as bel
 
 | **POSITION** | **SWAGS** |
 | :---:         | :---:           |
-| Top 10 (**TIER-TWO**) | **Certificate of Appreciation** |
+| Everyone  | **Certificate of Appreciation** |
 | Rank 3rd     | **Certificate for stand 3rd** |
 | Rank 2nd     | **Stickers' pack** & Certificate for stand 2nd |
 | Rank 1ST     | **T-Shirt** & Certificate for 1st position |
@@ -69,9 +65,9 @@ All divisions will be judge simultaneously. Top 3 Hackers will be awarded as bel
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <h2 align="center"> 🏆 DEBUG CHAMPS </h2>
 </div> 
 <p align="center">
     <img width="100%" src="assets/debug-champs.png">
-</p>
+</p> -->
