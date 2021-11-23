@@ -13,8 +13,8 @@
 
 #### BugFest is a student-run event/contest, organized by Epoch literary and cultural society,Jamia Hamdard.
 
-- [Epoch'](http://epochsociety.in/): Epoch is a student-run literary and cultural society of jamia hamdard, Delhi.which opens plethora of opportunities.
-In collaboration with-
+- [Epoch'](http://epochsociety.in/): Epoch is a student-run literary and cultural society of jamia hamdard, Delhi.which opens plethora of opportunities for student from jamia hamdard and all over india.
+<br/> In collaboration with-
 - [CodingBlocks](https://codingblocks.com/): Coding Blocks was founded in 2014 with a mission to create skilled Software Engineers for our country and the world. We are here to bridge the gap between the quality of skills demanded by industry and the quality of skills imparted by conventional institutes. At Coding Blocks, we strive to increase student interest by providing hands on practical training on every concept taught in the classroom.
 
 
