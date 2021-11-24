@@ -2,7 +2,7 @@
   <h1 align="center"> 🐞 BUGFEST </h1>
 </div> 
 <div align="center">
-  <h4 align="center">  Show those pesky bugs who is the boss by detecting and removing bugs in a code!✨ </h4>
+  <h4 align="center">Show those pesky bugs who is the boss by detecting and removing bugs in a code!✨ </h4>
 </div>
 <p align="center">
     <img width="100%" alt="Event banner" src="assets/banner.png">
@@ -33,7 +33,7 @@
 <div align="center">
   <h1 align="center"> ⚡ PARTICIPATION GUIDELINES</h1>
 
-Rules and regulations help hackers understand what is expected of them & make sure to follow the [instructions](https://github.com/ghulamyazdani/BugFest/blob/master/participation-guidelines.md) without violating them.
+Follow these [Guidlines](https://github.com/ghulamyazdani/BugFest/blob/master/participation-guidelines.md) to participate in the event.
 </div>
 
 <div align="center">
