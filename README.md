@@ -59,9 +59,9 @@ All divisions will be judge simultaneously. Top 3 Hackers will be awarded as bel
 | **POSITION** | **SWAGS** |
 | :---:         | :---:           |
 | Everyone  | **Certificate of Appreciation** |
-| Rank 3rd     | **Certificate for stand 3rd** |
-| Rank 2nd     | **Stickers' pack** & Certificate for stand 2nd |
-| Rank 1ST     | **T-Shirt** & Certificate for 1st position |
+| Rank 3rd     |  **Stickers' pack** & Certificate for 3<sup>rd position |
+| Rank 2nd     | **CodingBlocks Diary** & Certificate for 2<sup>nd position|
+| Rank 1ST     | **T-Shirt** & Certificate for 1<sup>st position |
 </div>
 
 <br />
