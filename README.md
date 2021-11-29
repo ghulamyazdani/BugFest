@@ -25,7 +25,7 @@
 
 <div align="center">
   <h2 align="center"> 🏗 STRUCTURE:-</h2>
- Only one hour is alotted for this whole event so make sure you find the bugs in time .
+ Only 45 min is alotted for this whole event so make sure you find the bugs in time .
  Submission can be done by uploading your debugged code at any platform eg. GitHub, GitLab, BitBucket,Drive etc. and submitting the link to the event organizers through google forms.
 </br>
 </br></div>
