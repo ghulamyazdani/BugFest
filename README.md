@@ -66,9 +66,13 @@ All divisions will be judge simultaneously. Top 3 Hackers will be awarded as bel
 
 <br />
 
-<!-- <div align="center">
-  <h2 align="center"> 🏆 DEBUG CHAMPS </h2>
-</div> 
-<p align="center">
-    <img width="100%" src="assets/debug-champs.png">
-</p> -->
+
+  <h2 align="center"> 🏆 Winners </h2></div> 
+  <div align="center">
+  <br>
+
+| **POSITION** | **NAMES** |
+| :---:         | :---:           |
+| 1<sup>st Position  | **Ayush Kumar Singh** |
+| 2<sup>nd Position  |  **Abdul Basit**  |
+| 3<sup>rd Position  | **Siddharth Singh**|
