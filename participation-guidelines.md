@@ -7,3 +7,5 @@ Steps to participate in the event:
 
 ## How to submit your code?
 We will be providing you with a google form link.you have to upload your code at any platform eg. GitHub, GitLab, BitBucket,Drive etc. and submit the link in the google forms which we will provide.
+
+Clich [here](https://forms.gle/DUP88RGgNGe3JtS8A) for Google form link for submission of debugged code
